@@ -13,5 +13,8 @@ public class Main {
     public static void test() {
         System.out.println("ready ?");
     }
+    public static void test1() {
+        System.out.println("ready ?");
+    }
 
 }
