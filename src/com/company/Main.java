@@ -6,7 +6,7 @@ public class Main {
         //additive
         System.out.println("Hello world");
         System.out.println("other commit");
-        System.out.println("another text");
+
     }
 
 }
